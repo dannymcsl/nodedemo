@@ -1,0 +1,20 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannymcsl/nodedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannymcsl/nodedemo/issues"
+  },
+  "homepage": "https://github.com/dannymcsl/nodedemo#readme"
+}
